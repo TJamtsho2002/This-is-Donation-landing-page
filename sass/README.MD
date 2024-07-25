@@ -1,4 +1,4 @@
-# Welcome to project 1
+# Welcome to project 2
 ## About this project:
 This is responsive landing page about donationmtools and teach i have used
 - HTML
